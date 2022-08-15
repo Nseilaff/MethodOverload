@@ -1,0 +1,15 @@
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\bin\Debug\net6.0\MethodOverload.exe
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\bin\Debug\net6.0\MethodOverload.deps.json
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\bin\Debug\net6.0\MethodOverload.runtimeconfig.json
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\bin\Debug\net6.0\MethodOverload.dll
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\bin\Debug\net6.0\MethodOverload.pdb
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.csproj.AssemblyReference.cache
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.AssemblyInfoInputs.cache
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.AssemblyInfo.cs
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.csproj.CoreCompileInputs.cache
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.dll
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\refint\MethodOverload.dll
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.pdb
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\MethodOverload.genruntimeconfig.cache
+C:\Users\seila\Desktop\Repos\MethodOverload\MethodOverload\obj\Debug\net6.0\ref\MethodOverload.dll
